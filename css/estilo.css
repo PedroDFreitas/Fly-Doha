@@ -1,0 +1,98 @@
+.bg-vinho{
+	background: #8A0808;
+}
+nav.navbar div.container a{
+	color: #DBA901;
+}
+.text-dourardo{
+	color: #DBA901;
+}
+.navbar-dourado{
+	color: #DBA901;
+}
+.navbar-toggler-icon{
+	color: #DBA901;
+	border-radius: 20px;
+}
+nav.navbar div.container a:hover{
+	color: #B18904;
+}
+#inicio{
+	background: #8A0808;
+}
+.img-form{
+	margin-top: 100px;
+	margin-left: 250px;
+}
+#principal{
+	background: #B40404;
+	color: #FFBF00;
+	padding-top: 100px;
+	padding-bottom: 50px;
+}
+.link-atençao{
+	color: #FFBF00;
+	text-decoration: none;
+}
+.link-atençao:hover{
+	color: #DBA901;
+	text-decoration: none;
+}
+.img-aviao{
+	border-radius: 100px;
+	border: 5px solid #FFBF00;
+	margin-left: 30px;
+}
+.border-bottom-fin{
+	border-bottom: 2px solid #8A0808;
+}
+.caixa{
+	padding: 59px 0;
+	background: #F2F2F2;
+	color: #8A0808;
+}
+.card-background{
+	border: 2px solid #FFBF00;
+}
+.card-border{
+	border-bottom: 1px solid #FFBF00;
+}
+.album{
+	border: 7px solid #8A0808;
+	border-radius: 450px;
+}
+.texto-rodape{
+	color: #DBA901;
+	text-decoration: none;
+	border-bottom: 1px solid #DBA901;
+	padding-bottom: 3px;
+}
+.texto-rodape:hover{
+	color: #B18904;
+	text-decoration: none;
+}
+.text-dourado{
+	color: #DBA901;
+}
+.redes{
+	color: #DBA901;
+	margin-top: 100px;
+}
+.redes:hover{
+	color: #B18904;
+}
+.milhas{
+	border: 7px solid #8A0808;
+	border-radius: 45px;
+}
+.navbar-toggler {
+    padding: 0.25rem 0.75rem;
+    font-size: 1.25rem;
+    line-height: 1;
+    background-color: #DBA901;
+    border: 1px solid #DBA901;
+    border-radius: 0.25rem;
+}
+#navegacao .navbar-nav .active{
+	color: #B18904;
+}
